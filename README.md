@@ -30,6 +30,7 @@ Optional R installation:
 ```R
 install.packages("pROC")
 ```
+The installation process may take a few minutes.
 
 ## 3. Demo Instructions
 
